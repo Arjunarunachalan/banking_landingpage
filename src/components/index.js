@@ -1,4 +1,4 @@
-import Navbar from "./NavBar";
+import Navbar from "./NavBar.jsx";
 import Testimonials from "./Testimonials";
 import Stats from "./Stats";
 import Hero from "./Hero";
